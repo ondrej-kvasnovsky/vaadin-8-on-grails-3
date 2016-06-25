@@ -14,5 +14,5 @@
        * [Create Sql Bean](create_sql_bean.md)
        * [Execute SQLs](groovy_sql_execute_sqls.md)
    * [MyBatis](mybatis.md)
-       * MyBatis Configuration
+       * [MyBatis Configuration](mybatis_configuration.md)
 
