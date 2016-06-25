@@ -51,7 +51,7 @@ In case you want to build a rich JavaScript client, you need to invest quite som
 
 ## Vaadin plugin
 
-There is a Grails plugin called [vaadin](http:vaadinongrails.com) that integrates Vaadin into Grails realm, by providing dependencies to Vaadin libraries. Also, the plugin provides some support for development.
+There is a Grails plugin called [vaadin](http:vaadinongrails.com) that integrates Vaadin into Grails realm, by providing dependencies to Vaadin libraries. Also, the plugin provides support for development.
 * Create start-up code with sample application
 * Help to access beans and localization values
 * SASS compilation
