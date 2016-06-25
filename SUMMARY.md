@@ -16,5 +16,5 @@
    * [MyBatis](mybatis.md)
        * [MyBatis Configuration](mybatis_configuration.md)
        * [Reading Data with MyBatis](reading_data_with_mybatis.md)
-   * JdbcTemplate
+   * [JdbcTemplate](jdbctemplate.md)
 
