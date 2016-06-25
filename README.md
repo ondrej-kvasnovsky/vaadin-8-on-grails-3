@@ -1,3 +1,5 @@
 # Vaadin on Grails 3
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+The book describes how to create project, setup configuration, what code is created automatically and how to clean up the code that will become useless when we use Vaadin for user interface.
+
+
