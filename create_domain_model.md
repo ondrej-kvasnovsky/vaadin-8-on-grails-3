@@ -5,7 +5,7 @@
 
 Open and study Grails documentation how to work with [domain](http://grails.org/doc/latest/guide/single.html#domainClasses) classes. In case you are new to Grails domain classes, you should definitelly read it.
 
-We are going to create application that creates a domain object and use it in Vaadin application.
+We are going to create application that creates a domain object and use it by Vaadin application.
 
 ### Step 1
 
