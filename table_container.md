@@ -1,7 +1,7 @@
 # Table Container
 
 > Example code is available on
-[github.com/vaadin-on-grails/gorm-vaadin-table](https://github.com/vaadin-on-grails/gorm-vaadin-table).
+[github.com/vaadin-on-grails3/gorm-vaadin-table](https://github.com/vaadin-on-grails3/gorm-vaadin-table).
 
 In this tutorial we will show how to display GORM objects in Vaadin Grid.
 
