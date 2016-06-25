@@ -17,5 +17,5 @@
        * [MyBatis Configuration](mybatis_configuration.md)
        * [Reading Data with MyBatis](reading_data_with_mybatis.md)
    * [JdbcTemplate](jdbctemplate.md)
-       * Create JdbcTemplate Beans
+       * [Create JdbcTemplate Beans](create_jdbctemplate_beans.md)
 
