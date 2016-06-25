@@ -25,9 +25,6 @@ Vaadin provides both simple and complex web [UI components](http://demo.vaadin.c
 Developers who like object oriented programing and design patterns that result in predictable APIs, might feel excited about the way how the development of an user interface can be done with Vaadin. We can play with UI components and still keep thinking about it as object structures in Java.
 
 ## Grails
-
-Grails 3.x is supported in the book. Support for Grails 3.x is comming soon.
-
 Grails is framework used to build applications in really short time, because it provides:
 
 * Dependency management
