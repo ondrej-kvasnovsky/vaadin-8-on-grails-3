@@ -22,7 +22,7 @@ This book could be written thanks to:
 
 Vaadin provides both simple and complex web [UI components](http://demo.vaadin.com/sampler) that can be displayed in browser or in [mobile app](https://vaadin.com/directory#addon/vaadin-touchkit), while the client side, an applicaiton running inside a web browser, is still connected to the server and communication happens when required, after user's action or when server pushes data to the client from the server.
 
-Developers who like object oriented programing and design patterns that result in predictable APIs, might feel excited about the way how the development of an user interface can be done with Vaadin. We can play with UI components and still keep thinking about it as object structures in Java or Groovy.
+Developers who like object oriented programing and design patterns that result in predictable APIs, might feel excited about the way how the development of an user interface can be done with Vaadin. We can play with UI components and still keep thinking about it as object structures in Java based languages.
 
 ## Grails
 Grails is framework used to build applications in really short time, because it provides:
