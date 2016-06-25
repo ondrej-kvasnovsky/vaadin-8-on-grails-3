@@ -3,7 +3,7 @@
 > Example code is available on
 [github.com/vaadin-on-grails3/gorm-domain](https://github.com/vaadin-on-grails3/gorm-domain).
 
-Grails documentation has nice description how to work with [domain](http://grails.org/doc/latest/guide/single.html#domainClasses) classes. In case you are new to Grails domain classes, you should definitelly read it.
+Open and study Grails documentation how to work with [domain](http://grails.org/doc/latest/guide/single.html#domainClasses) classes. In case you are new to Grails domain classes, you should definitelly read it.
 
 Anyway, let's show an example how to create a domain object and use it in Vaadin application.
 
