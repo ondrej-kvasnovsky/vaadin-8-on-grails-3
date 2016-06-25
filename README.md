@@ -12,4 +12,8 @@ If you are completely new to both technologies, the book will show you first ste
 
 If you are both Vaadin and also Grails expert, you might look at the book as a reference book, set of tutorials and also a place with several solutions that you might have to solve in your applications.
 
-
+## Behind The Scenes
+This book could be written thanks to:
+* Questions you have been asking during last few years about development of Vaadin using Groovy and Grails.
+* Many years spend with development of applications using Grails and Vaadin.
+* Chapter about Grails in [Vaadin 7 Cookbook](http://www.packtpub.com/creating-rich-internet-applications-in-vaadin-7/book) that showed there is more to be discovered.
