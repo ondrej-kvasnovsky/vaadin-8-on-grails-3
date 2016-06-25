@@ -19,4 +19,5 @@
    * [JdbcTemplate](jdbctemplate.md)
        * [Create JdbcTemplate Beans](create_jdbctemplate_beans.md)
        * [Using JdbcTemplate](using_jdbctemplate.md)
+   * Clean Up When Using Alternatives
 
