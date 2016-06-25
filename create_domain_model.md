@@ -56,7 +56,6 @@ class BootStrap {
     def destroy = {
     }
 }
-
 ```
 
 ### Step 4
