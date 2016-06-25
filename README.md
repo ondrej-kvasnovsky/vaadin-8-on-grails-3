@@ -14,7 +14,7 @@ If you are both Vaadin and also Grails expert, you might look at the book as a r
 
 ## Behind The Scenes
 This book could be written thanks to:
-* Questions you have been asking during last few years about development of Vaadin using Groovy and Grails.
+* Questions you have been asking about development of Vaadin using Groovy and Grails during last few years.
 * Many years spend with development of applications using Grails and Vaadin.
 * Chapter about Grails in [Vaadin 7 Cookbook](http://www.packtpub.com/creating-rich-internet-applications-in-vaadin-7/book) that showed there is more to be discovered.
 
