@@ -7,3 +7,6 @@ We will go through two approaches how to work with database. The first one is GO
 We will at look data binding tricks, basic ideas for architecture and how to compose the components using Model View Presenter (MVP).
 
 The book also contains tutorials how to compile SASS and widget set, after you add an add-on. How to use Spring security, localization and how to add a REST API from a Vaadin application and many other things.
+
+If you are completely new to both technologies, the book will show you first steps to start up and then you can continue with [Vaadin](https://vaadin.com/learn) and [Grails](http://grails.org/doc/latest/guide/single.html) documentation.
+
