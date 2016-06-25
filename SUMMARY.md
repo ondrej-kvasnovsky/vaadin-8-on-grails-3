@@ -4,5 +4,5 @@
 * [First Chapter](chapter1.md)
 * [Database](database.md)
    * [GORM](gorm.md)
-       * Create Domain Model
+       * [Create Domain Model](create_domain_model.md)
 
