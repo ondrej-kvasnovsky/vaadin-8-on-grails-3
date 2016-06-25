@@ -43,7 +43,7 @@ Grails is framework used to build applications in really short time, because it 
 * Using Groovy and Java languages
 * On the fly reloading
 
-The most useful feature of Grails might be GORM (Grails Object Relation Mapping) that makes really easy to create a database layer. Then there are services, which support transactions, that are the place to put the application logic.
+The most useful feature of Grails might be GORM (Grails Object Relation Mapping) that makes it really easy to create a database layer. Then there are services, which support transactions, that are the place to put the application logic.
 
 ## Rich internet applications in Grails
 
