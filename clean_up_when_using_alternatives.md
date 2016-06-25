@@ -1,5 +1,7 @@
 # Clean Up When Using Alternatives
-
+ 
+TODO: revisit....
+ 
 With alternative database frameworks, like Groovy Sql, MyBatis, JdbcTemplate, we do not need some GORM libraries, like hibernate, let's remove them and maybe exclude some others.
 
 Before you start excluding and removing dependencies, let's run `grails dependency-report compile` command to see what libraries are loaded for compile scope.
