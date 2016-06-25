@@ -8,5 +8,5 @@
        * [Transactions](transactions.md)
        * [LazyInitializationException](lazyinitializationexception.md)
        * [Open Session In View I.](open_session_in_view_i.md)
-       * Open Session In View II.
+       * [Open Session In View II.](open_session_in_view_ii.md)
 
