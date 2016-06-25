@@ -59,8 +59,4 @@ There is a Grails plugin called [vaadin](http:vaadinongrails.com) that integrate
 
 ## Thanks
 
-Thanks for buying the book and supporting the first official and complete documentation for Vaadin integration with Grails.
-
-Also you will support development of the plugin and enhancement of this book. Which means, you can suggest what should be covered in this book.
-
-Thanks for supporting [gitbook](https://gitbook.io), which is great platform for book publishing, because you give them 20% of the book price. Which is still much less than publishers charge.
+Thanks for buying the book and supporting the official and complete documentation for Vaadin integration with Grails.
