@@ -7,5 +7,5 @@
        * [Create Domain Model](create_domain_model.md)
        * [Transactions](transactions.md)
        * [LazyInitializationException](lazyinitializationexception.md)
-       * Open Session In View I.
+       * [Open Session In View I.](open_session_in_view_i.md)
 
