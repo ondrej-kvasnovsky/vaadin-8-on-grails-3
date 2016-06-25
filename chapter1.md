@@ -6,7 +6,6 @@ First we need to get Grails installed on your local machine. Type `grails --vers
 
 If Grails is not on your local and you need some help with installation, follow these tutorials.
 
-
 ## [Mac OS X](http://www.grailsexample.net/installing-a-grails-development-environment-on-os-x/)
 
 http://www.grailsexample.net/installing-a-grails-development-environment-on-os-x
