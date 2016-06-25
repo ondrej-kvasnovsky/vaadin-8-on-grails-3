@@ -3,6 +3,8 @@
 > Example code is available on
 [github.com/vaadin-on-grails/groovy-sql](https://github.com/vaadin-on-grails/groovy-sql).
 
+TODO: steps how to create entities... 
+
 In order to execute a query with [Groovy Sql](http://groovy.codehaus.org/api/groovy/sql/Sql.html) just get `dataSource` bean from the application context, which we have created it in Create Sql article.
 
 ``` java
