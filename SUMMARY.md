@@ -15,5 +15,5 @@
        * [Execute SQLs](groovy_sql_execute_sqls.md)
    * [MyBatis](mybatis.md)
        * [MyBatis Configuration](mybatis_configuration.md)
-       * Reading Data with MyBatis
+       * [Reading Data with MyBatis](reading_data_with_mybatis.md)
 
