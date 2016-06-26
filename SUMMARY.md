@@ -4,6 +4,7 @@
 * [Project setup](chapter1.md)
    * [Command line](command_line.md)
    * [IntelliJ IDEA](intellij_idea.md)
+   * Eclipse
 * [Database](database.md)
    * [GORM](gorm.md)
        * [Create Domain Model](create_domain_model.md)
