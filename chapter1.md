@@ -13,7 +13,7 @@ There are two libraries that add support for development of Vaadin applications 
 
 ### Before you start
 
-Before you start, make sure you have Java installed on your machine. If not, follow the [instructions by Oracle](how to install java, oracle).
+Before you start, make sure you have Java installed on your machine. If not, follow the [instructions by Oracle](how to install java, oracle) for macOS, Linux or Windows.
 
 Also make sure you have got the latest version of Grails on your local machine. Type `grails --version` in your console to find out what version is installed.
 
