@@ -8,8 +8,6 @@ Before you start creating new project with Grails framework, make sure the lates
 
 You can download the latest Grails version from the [Grails page](https://grails.org/download.html). 
 
-If Grails is not on your local follow these tutorials.
-
 ## Mac OS X
 
 ### Step 1
