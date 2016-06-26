@@ -8,8 +8,6 @@ Before you start, make sure you have Java installed on your machine. If not, fol
 
 Also make sure you have got the latest version of Grails on your local machine. Type `grails --version` in your console to find out what version is installed.
 
-You can download the latest Grails version from the [Grails page](https://grails.org/download.html). 
-
 ## Unix based systems
 
 This section describes hot to install Grails on Mac OS X and Linux. You will use [SdkMan](http://sdkman.io/usage.html) to install all the requited tools. 
