@@ -4,6 +4,9 @@ You are going to learn how to create and configure Grails application with Vaadi
 
 There are two libraries which adds support for development of Vaadin applications in Grails. 
 
+ - com.vaadinongrails:grails-vaadin-plugin - adds all required jars on class path and hooks into Grails context and makes it possible to run Vaadin application instead of Grails .gsp files.
+ - com.vaadinongrails:vaadin-gradle-plugin - 
+
 ### Before you start
 
 Before you start, make sure you have Java installed on your machine. If not, follow the [instructions by Oracle](how to install java, oracle).
