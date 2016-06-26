@@ -2,6 +2,8 @@
 
 You are going to learn how to create and configure Grails application with Vaadin plugin in this chapter.
 
+There are two libraries which adds support for development of Vaadin applications in Grails. 
+
 ### Before you start
 
 Before you start, make sure you have Java installed on your machine. If not, follow the [instructions by Oracle](how to install java, oracle).
