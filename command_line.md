@@ -13,7 +13,7 @@ Open your console or terminal and run `grails create-app hello-world` that will 
 
 #### Step 2
 
-Go to that directory `cd my-app` and open that folder in a text editor of your choice.
+Go to that directory `cd hello-world` and open that folder in a text editor of your choice.
 
 #### Step 3
 
