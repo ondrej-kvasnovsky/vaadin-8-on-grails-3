@@ -1,6 +1,6 @@
 # NetBeans
 
-> Working example project, which results from this tutorial, can be downloaded from [github.com/vaadin-on-grails/quickstart-app](https://github.com/vaadin-on-grails/quickstart-app).
+> Source code for this tutorial is available on [github.com/vaadin-on-grails-3/quickstart-app](https://github.com/vaadin-on-grails-3/quickstart-app).
 
 You need to install full version of [NetBeans](https://netbeans.org/downloads/index.html) (where Groovy is included).
 
