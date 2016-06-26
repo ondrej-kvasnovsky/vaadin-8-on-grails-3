@@ -6,7 +6,7 @@ Using [Grails command line](http://grails.org/doc/latest/guide/single.html#comma
 
 ## Create application
 
-These instructions are supposed to be executed by using the command line. 
+Follow the steps and run the commands in your terminal.
 
 #### Step 1
 Open your console or terminal and run `grails create-app hello-world` that will create new directory called **my-app** with sample Grails application.
