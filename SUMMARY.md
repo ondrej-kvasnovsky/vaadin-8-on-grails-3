@@ -6,7 +6,7 @@
    * [IntelliJ IDEA](intellij_idea.md)
    * [Eclipse](eclipse.md)
    * [NetBeans](netbeans.md)
-   * Plugin Configuration
+   * [Plugin Configuration](plugin_configuration.md)
 * [Database](database.md)
    * [GORM](gorm.md)
        * [Create Domain Model](create_domain_model.md)
