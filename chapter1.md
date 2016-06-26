@@ -14,6 +14,6 @@ If Grails is not on your local and you need some help with installation, follow 
 
 
 
-## [Linux](http://www.grailsexample.net/installing-a-grails-development-environment-on-linux/)
+## Linux
 
 
