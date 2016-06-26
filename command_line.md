@@ -45,6 +45,14 @@ buildscript {
 apply plugin: 'com.vaadinongrails.vaadin-gradle-plugin'
 ```
 
+``` groovy
+repositories {
+    mavenLocal()
+    maven { url "https://repo.grails.org/grails/core" }
+    maven { url 'https://dl.bintray.com/ondrej-kvasnovsky/plugins' }
+}
+```
+
 
 
 ![BuildConfig.groovy](http://vaadinongrails.com/book/1_1_build_config.png)
