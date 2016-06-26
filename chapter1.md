@@ -43,6 +43,8 @@ Install the following tools:
 
 ## Windows
 
+### Step 1
+
 
 
 In case you run into troubles, follow this tutorial: [Setup Grails 3 Windows Development Environment](http://grails.asia/grails-3-tutorial-setup-your-windows-development-environment).
