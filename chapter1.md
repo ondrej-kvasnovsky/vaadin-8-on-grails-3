@@ -12,19 +12,6 @@ You can download the latest Grails version from the [Grails page](https://grails
 
 This section describes hot to install Grails on Mac OS X and Linux. You will use [SdkMan](http://sdkman.io/usage.html) to install all the requited tools. 
 
-Open 
-
-
-```GRAILS_HOME=/Users/steve/Documents/Libraries/grails-3.1.7
-export GRAILS_HOME
-export PATH=$PATH:$GRAILS_HOME/bin```
-
-
-## Windows
-
-
-
-## Linux
 
 
 
