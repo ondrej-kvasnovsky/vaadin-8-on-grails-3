@@ -8,10 +8,12 @@ Before you start creating new project with Grails framework, make sure the lates
 
 You can download the latest Grails version from the [Grails page](https://grails.org/download.html). 
 
-## Mac OS X
+## Unix based systems
 
-### Step 1
-Download 
+This section describes hot to install Grails on Mac OS X and Linux. 
+
+Open 
+
 
 ```GRAILS_HOME=/Users/steve/Documents/Libraries/grails-3.1.7
 export GRAILS_HOME
