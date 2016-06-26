@@ -9,7 +9,7 @@ There are two libraries which adds support for development of Vaadin application
    -  ```vaadin-quickstart``` generates boilerplate Vaadin project
    -  ```vaadin-spring-quickstart``` generates boilerplate Vaadin project with Spring support
    -  ```vaadin-compile-sass``` compiles SASS into CSS
-   -  ```vaadin-compile-sass``` compiles Widgetset
+   -  ```vaadin-compile-widgetset``` compiles Widgetset
 
 ### Before you start
 
