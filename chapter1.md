@@ -41,9 +41,8 @@ Install the following tools:
  - Gradle ```sdk install gradle```
  - Grails ```sdk install grails```
 
-
 ## Windows
 
-In case you run into troubles, follow this tutorial on the following web page: [Setup Grails 3 Windows Development Environment](http://grails.asia/grails-3-tutorial-setup-your-windows-development-environment).
 
-Now you can proceed to other 
+
+In case you run into troubles, follow this tutorial: [Setup Grails 3 Windows Development Environment](http://grails.asia/grails-3-tutorial-setup-your-windows-development-environment).
