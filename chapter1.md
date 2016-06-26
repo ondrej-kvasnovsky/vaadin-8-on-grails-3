@@ -23,7 +23,8 @@ Install the following tools:
  - Grails ```sdk install grails```
 
 
-
 ## Windows
 
 Installation of Grails on Windows is described on the following web page: [Setup Grails 3 Windows Development Environment](http://grails.asia/grails-3-tutorial-setup-your-windows-development-environment).
+
+Now you can proceed to other
