@@ -6,6 +6,10 @@ First we need to get Grails installed on your local machine. Type `grails --vers
 
 If Grails is not on your local and you need some help with installation, follow these tutorials.
 
+### Before you start
+
+Before we start creating 
+
 ## Mac OS X
 
 ### Step 1
