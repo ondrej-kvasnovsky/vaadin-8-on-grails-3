@@ -1,6 +1,6 @@
 # IntelliJ IDEA
 
-> Source code for this tutorial is available on [github.com/vaadin-on-grails-3/quickstart-app](https://github.com/vaadin-on-grails-3/quickstart-app).
+> Source code for this tutorial is available on [github.com/vaadin-on-grails-3/hello-world](https://github.com/vaadin-on-grails-3/hello-world).
 
 Grails support in [IntelliJ IDEA](http://www.jetbrains.com/idea) is added through [Grails plugin](http://www.jetbrains.com/idea/webhelp/grails.html). Make sure it is installed in your IntelliJ IDEA before you start with the tutorial.
 
