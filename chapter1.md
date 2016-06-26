@@ -8,6 +8,12 @@ If Grails is not on your local and you need some help with installation, follow 
 
 ## Mac OS X
 
+### Step 1
+Download 
+
+GRAILS_HOME=/Users/steve/Documents/Libraries/grails-3.1.7
+export GRAILS_HOME
+export PATH=$PATH:$GRAILS_HOME/bin
 
 
 ## Windows
