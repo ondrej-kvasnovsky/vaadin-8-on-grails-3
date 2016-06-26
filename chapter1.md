@@ -5,7 +5,7 @@ You are going to learn how to create and configure Grails application with Vaadi
 There are two libraries which adds support for development of Vaadin applications in Grails. 
 
  - ```com.vaadinongrails:grails-vaadin-plugin``` adds all required jars on classpath and makes it possible to run Vaadin application instead of Grails .gsp files.
- - ```com.vaadinongrails:vaadin-gradle-plugin``` provides support for development of Vaadin applications. This plugin adds new tasks to:
+ - ```com.vaadinongrails:vaadin-gradle-plugin``` provides support for development of Vaadin applications. This plugin adds new tasks:
    -  Generate boilerplate Vaadin project
    -  Generate boilerplate Vaadin project with Spring support
    -  Compile SASS into CSS
