@@ -1,6 +1,6 @@
 # Eclipse
 
-> Source code for this tutorial is available on [github.com/vaadin-on-grails-3/quickstart-app](https://github.com/vaadin-on-grails-3/quickstart-app).
+> Source code for this tutorial is available on [github.com/vaadin-on-grails-3/hello-world](https://github.com/vaadin-on-grails-3/hello-world).
 
 Spring provides great tool [Groovy/Grails Tool Suite](http://spring.io/tools/ggts) for development of Groovy and Grails based projects. If Eclipse is your development IDE, you should definetelly get GGTS.
 
