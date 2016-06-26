@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Project setup](chapter1.md)
-   * Command line
+   * [Command line](command_line.md)
 * [Database](database.md)
    * [GORM](gorm.md)
        * [Create Domain Model](create_domain_model.md)
