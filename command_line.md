@@ -1,6 +1,6 @@
 # Command line
 
-> Source code for this tutorial is available on [github.com/vaadin-on-grails-3/quickstart-app](https://github.com/vaadin-on-grails-3/quickstart-app).
+> Source code for this tutorial is available on [github.com/vaadin-on-grails-3/hello-world](https://github.com/vaadin-on-grails-3/hello-world).
 
 Using [Grails command line](http://grails.org/doc/latest/guide/single.html#commandLine) to create a new application is probably the most reliable way. We can basically say that if you are not able to create project using the command line, you will be not able to work with Grails at all and you need to re-install Grails or fix its configuration.
 
