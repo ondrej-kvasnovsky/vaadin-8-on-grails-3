@@ -23,6 +23,8 @@ Also make sure you have got the latest version of Grails on your local machine. 
 | JVM Version: 1.8.0_60
 ```
 
+In case you do not have Grails installed on your machine, follow the next instructions. 
+
 ## Unix based systems
 
 This section describes hot to install Grails on Mac OS X and Linux. You will use [SdkMan](http://sdkman.io/usage.html) to install all the requited tools. 
