@@ -7,6 +7,7 @@
    * [Eclipse](eclipse.md)
    * [NetBeans](netbeans.md)
    * [Plugin Configuration](plugin_configuration.md)
+   * Clean up
 * [Database](database.md)
    * [GORM](gorm.md)
        * [Create Domain Model](create_domain_model.md)
