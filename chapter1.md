@@ -44,6 +44,6 @@ Install the following tools:
 
 ## Windows
 
-If you run into troubles, follow this tutorial on the following web page: [Setup Grails 3 Windows Development Environment](http://grails.asia/grails-3-tutorial-setup-your-windows-development-environment).
+In case you run into troubles, follow this tutorial on the following web page: [Setup Grails 3 Windows Development Environment](http://grails.asia/grails-3-tutorial-setup-your-windows-development-environment).
 
 Now you can proceed to other 
