@@ -9,7 +9,7 @@ Using [Grails command line](http://grails.org/doc/latest/guide/single.html#comma
 These instructions are supposed to be executed by using the command line. 
 
 #### Step 1
-Open your console or terminal and run `grails create-app my-app` that will create new directory called **my-app** with sample Grails application.
+Open your console or terminal and run `grails create-app hello-world` that will create new directory called **my-app** with sample Grails application.
 
 #### Step 2
 
