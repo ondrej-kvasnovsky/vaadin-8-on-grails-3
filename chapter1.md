@@ -23,7 +23,7 @@ Also make sure you have got the latest version of Grails on your local machine. 
 | JVM Version: 1.8.0_60
 ```
 
-In case you do not have Grails installed on your machine, follow the next instructions. 
+In case you do not have Grails installed on your machine, follow the instructions in the next sections. 
 
 ## Unix based systems
 
