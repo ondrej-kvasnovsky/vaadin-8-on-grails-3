@@ -8,7 +8,7 @@ Before you start creating new project with Grails framework, make sure Grails is
 
 You can download the latest Grails version from the Grails page.
 
-If Grails is not on your local and you need some help with installation, follow these tutorials.
+If Grails is not on your local follow these tutorials.
 
 ## Mac OS X
 
