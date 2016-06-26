@@ -25,18 +25,13 @@ buildscript {
         grailsVersion = project.grailsVersion
     }
     repositories {
-//        maven {
-//            url uri('../repo')
-//        }
         mavenLocal()
         maven { url "https://repo.grails.org/grails/core" }
         maven { url 'https://dl.bintray.com/ondrej-kvasnovsky/plugins/' }
     }
     dependencies {
-        classpath "org.grails:grails-gradle-plugin:$grailsVersion"
-        classpath "com.bertramlabs.plugins:asset-pipeline-gradle:2.8.2"
-        classpath "org.grails.plugins:hibernate4:5.0.6"
         classpath 'com.vaadinongrails:vaadin-gradle-plugin:1.0.5'
+        // ... 
     }
 }
 ```
@@ -53,7 +48,12 @@ repositories {
 }
 ```
 
-
+``` groovy
+dependencies {
+    compile 'com.vaadinongrails:grails-vaadin-plugin:1.0.5'
+    // ....
+}
+```
 
 ![BuildConfig.groovy](http://vaadinongrails.com/book/1_1_build_config.png)
 
