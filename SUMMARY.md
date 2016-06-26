@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Project setup](chapter1.md)
    * [Command line](command_line.md)
+   * IntelliJ IDEA
 * [Database](database.md)
    * [GORM](gorm.md)
        * [Create Domain Model](create_domain_model.md)
