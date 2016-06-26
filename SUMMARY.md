@@ -5,6 +5,7 @@
    * [Command line](command_line.md)
    * [IntelliJ IDEA](intellij_idea.md)
    * [Eclipse](eclipse.md)
+   * NetBeans
 * [Database](database.md)
    * [GORM](gorm.md)
        * [Create Domain Model](create_domain_model.md)
