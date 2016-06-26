@@ -4,7 +4,7 @@ You are going to learn how to create and configure Grails application with Vaadi
 
 ### Before you start
 
-Before you start creating new project with Grails framework, make sure the latest version of Grails is installed on your local machine. Type `grails --version` in your console to make sure you have the latest version.
+Before you start creating new project with Grails framework, make sure the latest version of Grails is installed on your local machine. Type `grails --version` in your console to find out what version is installed.
 
 You can download the latest Grails version from the Grails page.
 
