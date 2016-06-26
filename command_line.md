@@ -19,6 +19,34 @@ Go to that directory `cd hello-world` and open that folder in a text editor of y
 
 Open `build.gradle` and add latest version of [vaadin](http://grails.org/plugin/vaadin) plugin into compile scope `compile ":vaadin:7.6.1"`.
 
+``` groovy
+buildscript {
+    ext {
+        grailsVersion = project.grailsVersion
+    }
+    repositories {
+//        maven {
+//            url uri('../repo')
+//        }
+        mavenLocal()
+        maven { url "https://repo.grails.org/grails/core" }
+        maven { url 'https://dl.bintray.com/ondrej-kvasnovsky/plugins/' }
+    }
+    dependencies {
+        classpath "org.grails:grails-gradle-plugin:$grailsVersion"
+        classpath "com.bertramlabs.plugins:asset-pipeline-gradle:2.8.2"
+        classpath "org.grails.plugins:hibernate4:5.0.6"
+        classpath 'com.vaadinongrails:vaadin-gradle-plugin:1.0.5'
+    }
+}
+```
+
+``` 
+apply plugin: 'com.vaadinongrails.vaadin-gradle-plugin'
+```
+
+
+
 ![BuildConfig.groovy](http://vaadinongrails.com/book/1_1_build_config.png)
 
 #### Step 4
