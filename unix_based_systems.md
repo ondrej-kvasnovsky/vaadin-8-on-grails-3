@@ -12,6 +12,6 @@ If you face to any kind of issues, open [http://sdkman.io/install.html](http://s
 
 ### Step 2
 
-Install the following tools: 
+Open your console and install Gradle and Grails.
  - Gradle ```sdk install gradle```
  - Grails ```sdk install grails```
