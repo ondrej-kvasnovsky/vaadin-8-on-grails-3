@@ -18,6 +18,9 @@ You are going to set Java home in this step, because Grails is Java based techno
 
 ### Step 4
 
+In this step we are going to set Grails home. 
+
+
 
 ### Step 5
 
