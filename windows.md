@@ -6,7 +6,7 @@ Open *System Properties* dialog window and switch to *Advanced* tab. Then click 
 
 ### Step 2
 
-In this step, you are going to set system environment variables for your windows machine. Click on *New...* button to add a new system variable.
+In this step, you are going to set system environment variables for your windows machine. Click on *New...* button in *System variables* section to add a new system variable.
 
 ![](windows-env-var1.png)
 
