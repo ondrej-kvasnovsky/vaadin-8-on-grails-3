@@ -7,6 +7,7 @@
        * [Windows](windows.md)
    * [Creating Project](creating_project.md)
        * [Command line](command_line.md)
+       * IntelliJ IDEA
    * [IntelliJ IDEA](intellij_idea.md)
    * [Eclipse](eclipse.md)
    * [NetBeans](netbeans.md)
