@@ -9,6 +9,7 @@
    * [Plugin Configuration](plugin_configuration.md)
    * [Clean up](clean_up.md)
    * [Best Practices](best_practices.md)
+   * Environment setup
 * [Database](database.md)
    * [GORM](gorm.md)
        * [Create Domain Model](create_domain_model.md)
