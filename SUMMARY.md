@@ -8,7 +8,7 @@
    * [Creating Project](creating_project.md)
        * [Command line](command_line.md)
        * [IntelliJ IDEA](intellij_idea.md)
-       * Eclipse
+       * [Eclipse](eclipse.md)
        * NetBeans
    * [NetBeans](netbeans.md)
    * [Plugin Configuration](plugin_configuration.md)
