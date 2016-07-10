@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Project setup](chapter1.md)
-   * Environment setup
+   * [Environment setup](environment_setup.md)
    * [Command line](command_line.md)
    * [IntelliJ IDEA](intellij_idea.md)
    * [Eclipse](eclipse.md)
