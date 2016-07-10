@@ -4,6 +4,7 @@
 * [Project setup](chapter1.md)
    * [Environment setup](environment_setup.md)
        * [Unix based systems](unix_based_systems.md)
+       * Windows
    * [Creating Project](creating_project.md)
    * [Command line](command_line.md)
    * [IntelliJ IDEA](intellij_idea.md)
