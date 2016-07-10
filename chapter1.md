@@ -11,11 +11,8 @@ There are two libraries that add support for development of Vaadin applications 
    -  ```vaadin-compile-sass``` compiles SASS into CSS
    -  ```vaadin-compile-widgetset``` compiles Widgetset
 
-### Before you start
 
-
-
-## Unix based systems
+## 
 
 This section describes hot to install Grails on Mac OS X and Linux. You will use [SdkMan](http://sdkman.io/usage.html) to install all the requited tools. 
 
