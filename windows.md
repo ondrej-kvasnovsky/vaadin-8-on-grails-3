@@ -20,7 +20,7 @@ You are going to set Java home in this step, because Grails is Java based techno
 
 In this step we are going to set Grails home beause you will need to run Grails commands from command line. 
 
-Insert **GRAILS_HOME** into *Variable name* text field and path to Grails installation into *Variable value* text field. You can get Grails binaries from [https://grails.org/download.html](https://grails.org/download.html).
+Insert **GRAILS_HOME** into *Variable name* text field and path to Grails installation into *Variable value* text field. You can get Grails binaries from [https://grails.org/download.html](https://grails.org/download.html). Just unzip downloaded archive and 
 
 ![](windows-grails-home.png)
 
