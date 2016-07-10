@@ -10,7 +10,6 @@
        * [IntelliJ IDEA](intellij_idea.md)
        * Eclipse
        * NetBeans
-   * [Eclipse](eclipse.md)
    * [NetBeans](netbeans.md)
    * [Plugin Configuration](plugin_configuration.md)
    * [Clean up](clean_up.md)
