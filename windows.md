@@ -26,7 +26,7 @@ Insert **GRAILS_HOME** into *Variable name* text field and path to Grails instal
 
 ### Step 5
 
-In this step you will make it possible to run Grails from your command line. Select *Path* variable from the list of system variables and click on *Edit...* button. Go at the end of text in *Variable value* text field and append the path to Grails bin folder, in our case ```C:\grails-3.1.7\bin```
+In this step you will make it possible to run Grails from your command line. Select *Path* variable from the list of system variables and click on *Edit...* button. Go at the end of text in *Variable value* text field and append the path to Grails ```bin``` folder, in our case ```C:\grails-3.1.7\bin```
 
 ![](windows-path.png)
 
