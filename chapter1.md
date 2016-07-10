@@ -16,7 +16,7 @@ There are two libraries that add support for development of Vaadin applications 
 
 
 
-## Windows
+## 
 
 ### Step 1
 
