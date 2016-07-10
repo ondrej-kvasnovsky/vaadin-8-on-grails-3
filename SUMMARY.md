@@ -9,7 +9,7 @@
        * [Command line](command_line.md)
        * [IntelliJ IDEA](intellij_idea.md)
        * [Eclipse](eclipse.md)
-       * NetBeans
+       * [NetBeans](create-netbeans.md)
    * [NetBeans](netbeans.md)
    * [Plugin Configuration](plugin_configuration.md)
    * [Clean up](clean_up.md)
