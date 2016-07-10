@@ -1,7 +1,7 @@
 # Windows
 
 ### Step 1
-Open *System Properties* dialog window and switch to *Advanced* tab.  
+Open *System Properties* dialog window and switch to *Advanced* tab. Then click on *Environment Variables...* button, which opens  
 ![](Screen Shot 2016-06-26 at 7.20.21 PM.png)
 
 ### Step 2
