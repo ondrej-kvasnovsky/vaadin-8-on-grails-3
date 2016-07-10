@@ -6,6 +6,7 @@ Open *System Properties* dialog window and switch to *Advanced* tab. Then click 
 
 ### Step 2
 
+![](windows-env-var1.png)
 
 ### Step 3
 
