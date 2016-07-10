@@ -6,7 +6,7 @@ This section describes how to install Grails on Mac OS X and Linux. You will use
 
 Install SdkMan with this command in your console: ```curl -s "https://get.sdkman.io" | bash```.
 
-![](Screen Shot 2016-07-10 at 6.48.48 PM.png)
+![](sk-man.png)
 
 If you face to any kind of issues, open [http://sdkman.io/install.html](http://sdkman.io/install.html) and follow instructions to install SdkMan.
 
