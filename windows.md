@@ -1,6 +1,6 @@
 # Windows
 ### Step 1
-
+![](Screen Shot 2016-06-26 at 7.20.21 PM.png)
 
 ### Step 2
 
