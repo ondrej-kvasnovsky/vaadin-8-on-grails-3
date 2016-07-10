@@ -20,7 +20,7 @@ You are going to set Java home in this step, because Grails is Java based techno
 
 In this step we are going to set Grails home. 
 
-
+![](windows-grails-home.png)
 
 ### Step 5
 
