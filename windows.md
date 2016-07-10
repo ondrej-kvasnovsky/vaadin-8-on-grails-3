@@ -12,7 +12,7 @@ In this step, you are going to set system environment variables for your windows
 
 ### Step 3
 
-
+Insert **JAVA_HOME** into *Variable name* text field.
 
 ![](windows-javahome.png)
 
