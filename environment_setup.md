@@ -1,6 +1,6 @@
 # Environment setup
 
-Before you start, make sure you have Java installed on your machine. If not, follow the [instructions by Oracle](how to install java, oracle) for macOS, Linux or Windows.
+Before you start, make sure Java is installed on your machine. If not, follow the [instructions by Oracle](how to install java, oracle) for macOS, Linux or Windows.
 
 Also make sure you have got the latest version of Grails on your local machine. Type `grails --version` in your console to find out what version is installed. You should see something like this: 
 
