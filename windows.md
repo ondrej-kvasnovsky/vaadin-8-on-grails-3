@@ -12,7 +12,7 @@ In this step, you are going to set system environment variables for your windows
 
 ### Step 3
 
-You are going to set Java home in this step, because Grails is Java based technology and we need Java on system. Insert **JAVA_HOME** into *Variable name* text field. Then insert path to your version of Java 8 into *Variable value* text field.
+You are going to set Java home in this step, because Grails is Java based technology and you need Java on system. Insert **JAVA_HOME** into *Variable name* text field. Then insert path to your version of Java 8 into *Variable value* text field.
 
 ![](windows-javahome.png)
 
