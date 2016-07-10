@@ -1,7 +1,7 @@
 # Windows
 
 ### Step 1
-Open *System Properties* dialog window and switch to *Advanced* tab. Then click on *Environment Variables...* button, which opens  
+Open *System Properties* dialog window and switch to *Advanced* tab. Then click on *Environment Variables...* button, which opens *Environment Variables* dialog. 
 ![](windows-advanced.png)
 
 ### Step 2
