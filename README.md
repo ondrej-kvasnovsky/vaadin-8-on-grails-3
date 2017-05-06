@@ -8,7 +8,7 @@ We are going to look at data binding tricks, basic ideas for architecture and ho
 
 The book also contains tutorials how to compile SASS and widget set, after you add [Vaadin add-on](https://vaadin.com/directory), how to use Spring security, localization and how to add a REST API to run next to a Vaadin application and many other things.
 
-If you are completely new to both technologies, the book will show you first steps to start up development and then you should continue with [Vaadin](https://vaadin.com/learn) and [Grails](http://grails.org/doc/latest/guide/single.html) documentation. 
+If you are completely new to both technologies, the book will show you first steps to start up development and then you should continue with [Vaadin](https://vaadin.com/learn) and [Grails](http://grails.org/doc/latest/guide/single.html) documentation.
 
 If you are both Vaadin and also Grails expert, you might look at the book as a reference book, set of tutorials and also a place with several solutions that you might have to implement in your applications.
 
@@ -24,13 +24,13 @@ This book could be written thanks to:
 
 Vaadin provides both simple and complex web [UI components](http://demo.vaadin.com/sampler) that can be displayed in browser or in [mobile app](https://vaadin.com/directory#addon/vaadin-touchkit), while the client side, an applicaiton running inside a web browser, is still connected to the server and communication happens when required, after user's action or when server pushes data to the client from the server.
 
-Developers who like object oriented programing and design patterns that result in predictable APIs, might feel excited about the way how the development of an user interface can be done with Vaadin. We can play with UI components and still keep thinking about it as object structures in Java based languages.
+Developers who like JVM oriented programing and design patterns that result in predictable APIs, might feel excited about the way how the development of an user interface can be done with Vaadin. We can play with UI components and still keep thinking about it as object structures in Java based languages.
 
 ## Grails
 
 Grails is framework used to build applications in really short time, because it provides:
 
-* Dependency management
+* Gradle for dependency management
 * Dependency injection with Spring application context
 * URL mapping
 * Filters
@@ -46,7 +46,7 @@ Grails is framework used to build applications in really short time, because it 
 * Using Groovy and Java languages
 * On the fly reloading
 
-The most useful feature of Grails might be GORM \(Grails Object Relation Mapping\) that makes it really easy to create a database layer. Then there are services, which support transactions, which are the place to put the application logic.
+Probably the most useful feature of Grails might be GORM \(Grails Object Relation Mapping\) that makes it really easy to create a database layer. We usually put work with GORM into services, that support transactions and are the place to put the application logic.
 
 ## Rich internet applications in Grails
 
