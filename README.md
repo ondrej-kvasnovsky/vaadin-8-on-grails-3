@@ -50,7 +50,9 @@ Probably the most useful feature of Grails might be GORM \(Grails Object Relatio
 
 ## Rich internet applications in Grails
 
-In case you want to build a rich JavaScript client, you need to invest quite some time to build client side components. Which makes sense if we need to develop own components with special features \(for example new generation of paginated table that looks like a chart\). But sometimes, we need to build applications that should rather focus on solving customers issues and implementation of  business logic rather than spend time on implementation of JavaScript components. If that is the case, we could choose Vaadin to implement our Rich Internet Applications \(RIA\).
+In case you want to build a rich JavaScript client from scratch, you need to invest quite some time to build client side components. Which makes sense if we need to develop own components with special features \(for example new generation of paginated table that is visualized as a chart\). 
+
+But sometimes, we need to build applications that should rather focus on solving customer issues and implementation of  business logic rather than spend time on implementation of JavaScript components. If that is the case, we could choose Vaadin to implement our Rich Internet Applications \(RIA\).
 
 ## Vaadin plugin
 
