@@ -19,7 +19,7 @@ Open your console and install Gradle and Grails.
 
 Now you are done and you can proceed to another chapter about project creation.
 
-Step 3
+### Step 3
 
 Test your installation. Run `grails --version` int your command line.
 
