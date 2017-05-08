@@ -56,15 +56,9 @@ compile ('com.vaadinongrails:grails-vaadin-plugin:2.0.0') {
 
 ### Step 5
 
-Open file `BuildConfig.groovy` and add Vaadin plugin `compile ":vaadin:7.6.1"`.
+Now we have all dependencies available and we can run `vaadin-quick-start` Gradle target to create mandatory files.
 
-
-
->
-
-Now we need to tell IDEA to reload dependencies. Run `grails compile` or refresh the dependencies as shown on the following picture.
-
-![Vaadin plugin](http://vaadinongrails.com/book/1_1_2_refresh-idea.png)
+![](/assets/idea-5.png)
 
 > `Synchronize Grails setting` should be performed always when you run into issues with dependencies.
 
