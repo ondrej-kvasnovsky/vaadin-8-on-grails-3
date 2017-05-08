@@ -28,7 +28,7 @@ Fill in the name of the project and where the project should be created. Then cl
 
 ### Step 4
 
-IDEA opens the newly created project. Find and open build.gradle file. We need to add build and project dependencies to get the integration with Vaadin working.
+When IDEA opens the newly created project, find and open build.gradle file. We need to add build and project dependencies to get the integration with Vaadin working.
 
 Copy paste these lines into buildscript section. Check the print screen for places where to put these lines.
 
@@ -50,7 +50,8 @@ compile ('com.vaadinongrails:grails-vaadin-plugin:2.0.0') {
 }
 ```
 
-The latest version of the plugin is always available on [http://grails.org/plugin/vaadin](http://grails.org/plugin/vaadin)  
+> The latest version of the plugin is always available on [http://grails.org/plugin/vaadin](http://grails.org/plugin/vaadin)
+
 ![](/assets/idea-4.png)
 
 ### Step 5
