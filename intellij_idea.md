@@ -45,15 +45,16 @@ compile ('com.vaadinongrails:grails-vaadin-plugin:2.0.0') {
 }
 ```
 
+The latest version of the plugin is always available on [http://grails.org/plugin/vaadin](http://grails.org/plugin/vaadin)  
 ![](/assets/idea-4.png)
 
 ### Step 5
 
 Open file `BuildConfig.groovy` and add Vaadin plugin `compile ":vaadin:7.6.1"`.
 
-![Vaadin plugin](http://vaadinongrails.com/book/1_1_2_build-config-idea.png)
 
-> The latest version of the plugin is always available on [http://grails.org/plugin/vaadin](http://grails.org/plugin/vaadin)
+
+>
 
 Now we need to tell IDEA to reload dependencies. Run `grails compile` or refresh the dependencies as shown on the following picture.
 
