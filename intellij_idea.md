@@ -56,7 +56,7 @@ compile ('com.vaadinongrails:grails-vaadin-plugin:2.0.0') {
 
 ### Step 5
 
-Now we have all dependencies available and we can run `vaadin-quick-start` Gradle target to create mandatory files. The command `vaadin-quickstart` will generate `MyUI.groovy`, `VaadinConfig.groovy` and remove URL mapping inside `UrlMapping.groovy`.
+Now we have all dependencies available and we can run `vaadin-quick-start` Gradle target to create mandatory files. The command `vaadin-quickstart` creates `MyUI.groovy`, `VaadinConfig.groovy` and removes URL mapping inside `UrlMapping.groovy`.
 
 ![](/assets/idea-5.png)
 
