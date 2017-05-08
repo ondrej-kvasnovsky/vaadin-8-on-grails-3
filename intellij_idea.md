@@ -6,11 +6,12 @@ Grails support in [IntelliJ IDEA](http://www.jetbrains.com/idea) is added throug
 
 ### Step 1
 
-Create new project from IDEA menu. Click on  `New..` item in the menu and then on `Project...`.![](/assets/idea-1.0.png)
+Create new project from IDEA menu. Click on  `New..` item in the menu and then on `Project...`.  
+![](/assets/idea-1.0.png)
 
 ### Step 2
 
-If it is your first Grails project in IDEA, click on `Create...` button and then select the root of your unpacked Grails archive. It will add Grails into IDEA.![](/assets/idea-2.png)
+If it is your first Grails project in IDEA, click on `...` button and then select the root of your unpacked Grails archive. It will add Grails into IDEA.![](/assets/idea-2.png)
 
 ### Step 3
 
