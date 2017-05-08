@@ -25,7 +25,7 @@ Fill in the name of the project and where the project should be created. Then cl
 
 IDEA opens the newly created project. Find and open build.gradle file. We need to add build and project dependencies to get the integration with Vaadin working.
 
-Copy paste these lines into buildscript section. Check the print screen for places where to put these lines. 
+Copy paste these lines into buildscript section. Check the print screen for places where to put these lines.
 
 ```
 maven { url 'https://dl.bintray.com/ondrej-kvasnovsky/plugins/' }
@@ -35,7 +35,7 @@ classpath 'com.vaadinongrails:vaadin-gradle-plugin:2.0.0'
 apply plugin: 'com.vaadinongrails.vaadin-gradle-plugin'
 ```
 
-Then add these two lines into project dependency section: 
+Then add these two lines into project dependency section:
 
 ```
 maven { url 'https://dl.bintray.com/ondrej-kvasnovsky/plugins' }
@@ -45,7 +45,7 @@ compile ('com.vaadinongrails:grails-vaadin-plugin:2.0.0') {
 }
 ```
 
-
+![](/assets/idea-4.png)
 
 ### Step 5
 
