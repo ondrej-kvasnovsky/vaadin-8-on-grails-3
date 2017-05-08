@@ -60,8 +60,6 @@ Now we have all dependencies available and we can run `vaadin-quick-start` Gradl
 
 ![](/assets/idea-5.png)
 
-> `Synchronize Grails setting` should be performed always when you run into issues with dependencies.
-
 ### Step 6
 
 Run `grails vaadin-quickstart` that will generate sample code to easier project configuration.
