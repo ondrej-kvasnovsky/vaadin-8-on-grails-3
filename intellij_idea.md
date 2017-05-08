@@ -50,36 +50,39 @@ compile ('com.vaadinongrails:grails-vaadin-plugin:2.0.0') {
 }
 ```
 
-> The latest version of the plugin is always available on [http://grails.org/plugin/vaadin](http://grails.org/plugin/vaadin)
+> The latest version of the plugin is always available on [https://bintray.com/ondrej-kvasnovsky/plugins](https://bintray.com/ondrej-kvasnovsky/plugins).
 
 ![](/assets/idea-4.png)
 
 ### Step 5
 
-Now we have all dependencies available and we can run `vaadin-quick-start` Gradle target to create mandatory files. The command `vaadin-quickstart` creates `MyUI.groovy`, `VaadinConfig.groovy` and removes URL mapping inside `UrlMapping.groovy`.
+Now we have all dependencies available and we can run `vaadin-quick-start` Gradle target to create mandatory files. `vaadin-quickstart` command creates `MyUI.groovy`, `VaadinConfig.groovy` and removes URL mapping inside `UrlMapping.groovy`.
 
 ![](/assets/idea-5.png)
 
 ### Step 6
 
-Run `grails vaadin-quickstart` that will generate sample code to easier project configuration.
+Now we are able to run our application.
 
-![Vaadin plugin](http://vaadinongrails.com/book/1_1_2_quickstart.png)
+![Run application](/assets/idea-7.png)
+
+Here is how Grails run configuration looks like, in case we need to create it for our project. 
+
+![](/assets/idea-8.png)
+
+When the application is successfully started, we should see this UI in the browser. 
+
+![](/assets/idea-10.png)
+
+### Step 7
+
+In this step, we are going to do change in our Vaadin code and we will observe how changes are reflected in UI without server restart. 
+
+First we need to enable `auto recompile` in IDEA. Open IDEA settings and check on `Build project automatically` box. 
+
+![](/assets/idea-6.png)
 
 
-
-##### Optional
-
-We have to disable Grails to take control over the URLs, so Vaadin can do it instead. Open `UrlMappings.groovy` file and make sure the URL mapping is empty, so the content of the file is the following.
-
-```java
-class UrlMappings {
-    static mappings = {
-    }
-}
-```
-
-> If you see `unable to resolve class com.vaadin.grails.VaadinConfiguration` error during compile, compile the project once more. There an issue with Grails together with IntelliJ IDEA and it is not possible to compile the project in the first run. Note that everything will work properly and you can ingnore that error.
 
 ### Step 8
 
