@@ -6,7 +6,7 @@ Grails support in [IntelliJ IDEA](http://www.jetbrains.com/idea) is added throug
 
 ### Step 1
 
-Go to http://grails.org/download and get the latest version of Grails. Unpack the Grails archive on your local computer and start up IntelliJ IDEA.
+Go to [http://grails.org/download](http://grails.org/download) and get the latest version of Grails. Unpack the Grails archive on your local computer and start up IntelliJ IDEA.
 
 ### Step 2
 
@@ -31,6 +31,8 @@ Click on `Finish` and on the next dialog, choose `Run 'create app'`.
 ![Finish](http://vaadinongrails.com/img/create-app-idea.png)
 
 > Warning: sometimes, IDEA is not able to create Grails project and you end up with weird errors. In that case, try to upgrade IDEA version or run `grails create-app my-app` in console. Then after that open the project in IDEA.
+>
+> It takes more time to create new project first time.
 
 ### Step 5
 
@@ -38,7 +40,7 @@ Open file `BuildConfig.groovy` and add Vaadin plugin `compile ":vaadin:7.6.1"`.
 
 ![Vaadin plugin](http://vaadinongrails.com/book/1_1_2_build-config-idea.png)
 
-> The latest version of the plugin is always available on http://grails.org/plugin/vaadin
+> The latest version of the plugin is always available on [http://grails.org/plugin/vaadin](http://grails.org/plugin/vaadin)
 
 Now we need to tell IDEA to reload dependencies. Run `grails compile` or refresh the dependencies as shown on the following picture.
 
@@ -58,14 +60,14 @@ The command `vaadin-quickstart` will generate `MyUI.groovy` and remove URL mappi
 
 We have to disable Grails to take control over the URLs, so Vaadin can do it instead. Open `UrlMappings.groovy` file and make sure the URL mapping is empty, so the content of the file is the following.
 
-``` java
+```java
 class UrlMappings {
     static mappings = {
     }
 }
 ```
 
-> If you see ```unable to resolve class com.vaadin.grails.VaadinConfiguration``` error during compile, compile the project once more. There an issue with Grails together with IntelliJ IDEA and it is not possible to compile the project in the first run. Note that everything will work properly and you can ingnore that error.
+> If you see `unable to resolve class com.vaadin.grails.VaadinConfiguration` error during compile, compile the project once more. There an issue with Grails together with IntelliJ IDEA and it is not possible to compile the project in the first run. Note that everything will work properly and you can ingnore that error.
 
 ### Step 8
 
@@ -77,9 +79,7 @@ We are ready to run the application. Click on the little green triangle in toolb
 
 ### Step 9
 
-Run the application again and a Vaadin application with a single Home label will be available on http://localhost:8080/ria-app in your browser.
+Run the application again and a Vaadin application with a single Home label will be available on [http://localhost:8080/ria-app](http://localhost:8080/ria-app) in your browser.
 
 ![Running app](http://vaadinongrails.com/img/first-run.png)
-
-
 
