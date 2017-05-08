@@ -11,7 +11,7 @@ Create new project from IDEA menu. Click on  `New..` item in the menu and then o
 
 ### Step 2
 
-If it is your first Grails project in IDEA, click on `...` button and then select the root of your unpacked Grails archive. It will add Grails into IDEA.![](/assets/idea-2.png)
+If it is your first Grails project in IDEA, click on `...` next to Grails SDK Home and provide path to your Grails folder. It will add Grails into IDEA. When you are done, click on `Next`.![](/assets/idea-2.png)
 
 ### Step 3
 
