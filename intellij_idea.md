@@ -15,19 +15,18 @@ If it is your first Grails project in IDEA, click on `...` next to Grails SDK Ho
 
 ### Step 3
 
-Fill in the name of the project and choose the latest version of Grails.
+Fill in the name of the project and where the project should be created. Then click on `Finish` button.![](/assets/idea-3.png)  
 
-![Project name](http://vaadinongrails.com/book/1_1_2_new-project.png)
+
+> Warning: sometimes, IDEA is not able to create Grails project and you end up with weird errors. In that case, try to upgrade IDEA version or run`grails create-app my-app`  in console. Then open the project in IDEA and follow the next steps.
+
+> It takes more time to create new project first time.
 
 ### Step 4
 
-Click on `Finish` and on the next dialog, choose `Run 'create app'`.
-
-![Finish](http://vaadinongrails.com/img/create-app-idea.png)
-
-> Warning: sometimes, IDEA is not able to create Grails project and you end up with weird errors. In that case, try to upgrade IDEA version or run `grails create-app my-app` in console. Then after that open the project in IDEA.
->
-> It takes more time to create new project first time.
+IDEA opens the newly created project. Find and open build.gradle file. We need to add build and compile time dependencies to get the integration with Vaadin working.   
+  
+![](/assets/idea-4.png)
 
 ### Step 5
 
