@@ -62,8 +62,6 @@ dependencies {
 }
 ```
 
-![BuildConfig.groovy](http://vaadinongrails.com/book/1_1_build_config.png)
-
 #### Step 4
 
 Now we need to run `grails vaadin-quickstart`, so Vaadin plugin can generate sample application for us.
