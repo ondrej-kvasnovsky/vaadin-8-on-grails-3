@@ -8,7 +8,7 @@ Grails support in [IntelliJ IDEA](http://www.jetbrains.com/idea) is added throug
 
 Create new project from IDEA menu. Click on  `New..` item in the menu and then on `Project...`.
 
-![](/assets/idea-1.0.png)
+![](/assets/idea-1.png)
 
 ### Step 2
 
