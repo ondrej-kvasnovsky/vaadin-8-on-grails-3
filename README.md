@@ -1,16 +1,18 @@
 # Vaadin 8 on Grails 3
 
-The book describes integration between Vaadin 8 and Grails 8 frameworks. The book starts with tutorial how to create and setup project.
+This book describes integration between Vaadin 8 and Grails 3 frameworks. The book starts with tutorial how to create and setup a project.
 
 We will go through two approaches how to work with database. The first one is GORM, which is the default option. And then three alternatives to GORM that are MyBatis, JdbcTemplate and Groovy Sql.
 
-We are going to look at data binding tricks, basic ideas for architecture and how to compose the components using Model View Presenter \(MVP\).
+We are going to look at the data binding tricks, basic ideas for architecture and how to compose the components using Model View Presenter \(MVP\).
 
-The book also contains tutorials how to compile SASS and widget set, after you add [Vaadin add-on](https://vaadin.com/directory), how to use Spring security, localization and how to add a REST API to run next to a Vaadin application and many other things.
+The book also contains tutorials how to compile SASS and a widget set, after you add [Vaadin add-on](https://vaadin.com/directory).
 
-If you are completely new to both technologies, the book will show you first steps to start up development and then you should continue with [Vaadin](https://vaadin.com/learn) and [Grails](http://grails.org/doc/latest/guide/single.html) documentation.
+We will look at how to use Spring security, localization and how to add REST API that runs next to a Vaadin application and many other things.
 
-If you are both Vaadin and also Grails expert, you might look at the book as a reference book, set of tutorials and also a place with several solutions that you might have to implement in your applications.
+If you are completely new to both technologies, the book will show you the first steps to start up development and then you should continue to [Vaadin](https://vaadin.com/learn) and [Grails](http://grails.org/doc/latest/guide/single.html) documentation.
+
+If you are both Vaadin and also Grails expert, you might look at this book as a reference book, set of tutorials and also a place with several solutions that you might have to implement in your applications.
 
 ## Behind The Scenes
 
