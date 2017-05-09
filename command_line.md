@@ -10,7 +10,7 @@ Follow these steps and run the commands in your terminal.
 
 #### Step 1
 
-Open your console or terminal and run `grails create-app hello-world` that will create new directory called **my-app** with sample Grails application.
+Open your console or terminal and run `grails create-app hello-world` that will create new directory called **hello-world** with a sample Grails application.
 
 #### Step 2
 
