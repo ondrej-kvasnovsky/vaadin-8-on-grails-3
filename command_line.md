@@ -18,7 +18,7 @@ Go to that directory `cd hello-world` and open that folder in a text editor of y
 
 #### Step 3
 
-Open `build.gradle` and add latest version of [vaadin](http://grails.org/plugin/vaadin) plugin into compile scope `compile ":vaadin:7.6.1"`.
+Open `build.gradle` and add latest version of [vaadin plugin](https://bintray.com/ondrej-kvasnovsky/plugins).
 
 ```groovy
 buildscript {
@@ -31,16 +31,19 @@ buildscript {
         maven { url 'https://dl.bintray.com/ondrej-kvasnovsky/plugins/' }
     }
     dependencies {
-        classpath 'com.vaadinongrails:vaadin-gradle-plugin:1.0.5'
+        classpath 'com.vaadinongrails:vaadin-gradle-plugin:2.0.0'
         // ... 
     }
 }
 ```
 
+Then apply `com.vaadinongrails.vaadin-gradle-plugin`.
+
 ```
 apply plugin: 'com.vaadinongrails.vaadin-gradle-plugin'
 ```
 
+Now we need to add repository for `grails-vaadin-plugin` first.
 ```groovy
 repositories {
     mavenLocal()
@@ -49,10 +52,13 @@ repositories {
 }
 ```
 
+Now we can add dependency to `grails-vaadin-plugin`. Do not forget to exclude `vaadin-client-compiler` because then we won't be able to start up the application because of library version collision. 
+
 ```groovy
 dependencies {
-    compile 'com.vaadinongrails:grails-vaadin-plugin:1.0.5'
-    // ....
+    compile ('com.vaadinongrails:grails-vaadin-plugin:2.0.0') {
+        exclude group: 'com.vaadin', module: 'vaadin-client-compiler'
+    }
 }
 ```
 
