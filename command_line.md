@@ -68,9 +68,9 @@ Now we need to run `gradle vaadin-quickstart`, so Vaadin plugin can generate sam
 We want to prevent Grails to take over URL mapping. Open `UrlMappings.groovy` and make sure the URL mapping is empty.
 
 ```java
-    class UrlMappings {
-        static mappings = {
-        }
+class UrlMappings {
+    static mappings = {
+    }
 }
 ```
 
