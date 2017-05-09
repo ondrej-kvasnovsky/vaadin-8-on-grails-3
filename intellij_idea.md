@@ -82,19 +82,10 @@ First we need to enable `auto recompile` in IDEA. Open IDEA settings and check o
 
 ![](/assets/idea-6.png)
 
+Then open MyUI.groovy file and add a label into main layout. 
 
+![](/assets/idea-11.png)
 
-### Step 8
+Switch to browser and refresh the page. We should see the newly added label on UI.
 
-We are ready to run the application. Click on the little green triangle in toolbar.
-
-![Compile app](http://vaadinongrails.com/img/run-app-idea.png)
-
-> You can also press `Alt+Cmd+G` on Mac OS or `Ctrl+Alt+G` on Windows and type `run-app` in order to run the application.
-
-### Step 9
-
-Run the application again and a Vaadin application with a single Home label will be available on [http://localhost:8080/ria-app](http://localhost:8080/ria-app) in your browser.
-
-![Running app](http://vaadinongrails.com/img/first-run.png)
-
+![](/assets/idea-12.png)
