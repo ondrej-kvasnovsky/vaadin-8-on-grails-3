@@ -6,7 +6,7 @@ Using [Grails command line](http://grails.org/doc/latest/guide/single.html#comma
 
 ## Create application
 
-Follow the steps and run the commands in your terminal.
+Follow these steps and run the commands in your terminal.
 
 #### Step 1
 
