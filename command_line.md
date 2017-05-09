@@ -22,12 +22,8 @@ Open `build.gradle` and add latest version of [vaadin plugin](https://bintray.co
 
 ```groovy
 buildscript {
-    ext {
-        grailsVersion = project.grailsVersion
-    }
     repositories {
-        mavenLocal()
-        maven { url "https://repo.grails.org/grails/core" }
+        //...
         maven { url 'https://dl.bintray.com/ondrej-kvasnovsky/plugins/' }
     }
     dependencies {
@@ -46,8 +42,7 @@ apply plugin: 'com.vaadinongrails.vaadin-gradle-plugin'
 Now we need to add repository for `grails-vaadin-plugin` first.
 ```groovy
 repositories {
-    mavenLocal()
-    maven { url "https://repo.grails.org/grails/core" }
+    // ...
     maven { url 'https://dl.bintray.com/ondrej-kvasnovsky/plugins' }
 }
 ```
@@ -64,7 +59,7 @@ dependencies {
 
 #### Step 4
 
-Now we need to run `grails vaadin-quickstart`, so Vaadin plugin can generate sample application for us.
+Now we need to run `gradle vaadin-quickstart`, so Vaadin plugin can generate sample application for us.
 
 ![Generated Vaadin sample code](http://vaadinongrails.com/book/1_1_vaadin_sample_app.png)
 
