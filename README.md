@@ -58,7 +58,7 @@ But usually, we need to focus on solution that helps to easier pain of customer 
 
 ## Vaadin plugin
 
-There is a Grails plugin called [vaadin](http:vaadinongrails.com) that integrates Vaadin into Grails realm, by providing dependencies to Vaadin libraries. Also, the plugin provides support to make development faster.
+There is a Grails plugin called [vaadin](http://vaadinongrails.com) that integrates Vaadin into Grails realm, by providing dependencies to Vaadin libraries. Also, the plugin provides support to make development faster.
 
 * Create start-up code with sample application
 * Help to access beans and localization values
@@ -67,5 +67,5 @@ There is a Grails plugin called [vaadin](http:vaadinongrails.com) that integrate
 
 ## Thanks
 
-Thanks for buying the book and supporting the official and complete documentation for Vaadin integration with Grails.
+Thanks for reading this book and do not forget, you can [contribute too](https://www.gitbook.com/book/ondrej-kvasnovsky/vaadin-on-grails-3/changes).
 
