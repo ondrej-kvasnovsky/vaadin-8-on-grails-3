@@ -33,7 +33,7 @@ buildscript {
 }
 ```
 
-Then apply `com.vaadinongrails.vaadin-gradle-plugin`.
+Then apply `com.vaadinongrails.vaadin-gradle-plugin` (in section where other plugins are applied).
 
 ```
 apply plugin: 'com.vaadinongrails.vaadin-gradle-plugin'
