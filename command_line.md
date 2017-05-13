@@ -60,7 +60,7 @@ dependencies {
 
 #### Step 4
 
-Now we need to run `gradle vaadin-quickstart`, so Vaadin plugin can generate sample application for us.
+We can create all the files manually or we can use `gradle vaadin-quickstart` command. That command generates sample application for us.
 
 ![Generated Vaadin sample code](http://vaadinongrails.com/book/1_1_vaadin_sample_app.png)
 
