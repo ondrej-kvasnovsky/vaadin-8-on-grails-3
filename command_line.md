@@ -82,7 +82,6 @@ We are ready to start up the application. Run `grails run-app` command. Vaadin a
 ![Generated Vaadin sample code](/assets/idea-10.png)
 
 Here is how output in the console should look like. 
-
 ```
 > grails run-app
 | Running application...
