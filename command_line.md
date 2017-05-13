@@ -66,7 +66,7 @@ We can create all the files manually or we can use `gradle vaadin-quickstart` co
 
 #### Step 5
 
-We want to prevent Grails to take over URL mapping. Open `UrlMappings.groovy` and make sure the URL mapping is empty.
+We need to prevent Grails to take over URL mapping. Open `UrlMappings.groovy` and make sure the URL mapping is empty.
 
 ```java
 class UrlMappings {
