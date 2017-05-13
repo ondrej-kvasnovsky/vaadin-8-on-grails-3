@@ -9,6 +9,17 @@
     * [Command line](command_line.md)
     * [IntelliJ IDEA](intellij_idea.md)
   * [Plugin Configuration](plugin_configuration.md)
+    * UI class
+    * URL mapping
+    * Production mode
+    * Async support
+    * Themes
+    * SASS compilation
+    * Widgetset compilation
+    * Servlet class
+    * Spring component scan
+    * UI provider
+    * Open session in view
   * [Clean up](clean_up.md)
   * [Best Practices](best_practices.md)
 * [Database](database.md)
