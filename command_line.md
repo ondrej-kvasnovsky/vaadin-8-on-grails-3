@@ -39,7 +39,7 @@ Then apply `com.vaadinongrails.vaadin-gradle-plugin`.
 apply plugin: 'com.vaadinongrails.vaadin-gradle-plugin'
 ```
 
-Now we need to add repository for `grails-vaadin-plugin` first.
+Now we need to add repository for `grails-vaadin-plugin`.
 ```groovy
 repositories {
     // ...
