@@ -77,6 +77,14 @@ class UrlMappings {
 
 #### Step 6
 
-We are ready to start up the application. Run `grails run-app` command. Vaadin application running on [http://localhost:8080](http://localhost:8080) will become accessible after a while.  
-  ![Generated Vaadin sample code](/assets/idea-10.png)
+We are ready to start up the application. Run `grails run-app` command. Vaadin application running on [http://localhost:8080](http://localhost:8080) will become accessible in couple of seconds.
 
+![Generated Vaadin sample code](/assets/idea-10.png)
+
+Here is how output in the console should look like. 
+
+```
+> grails run-app
+| Running application...
+Grails application running at http://localhost:8080 in environment: development
+```
