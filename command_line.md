@@ -62,7 +62,7 @@ dependencies {
 
 We can create all the files manually or we can use `gradle vaadin-quickstart` command. That command generates sample application for us.
 
-![Generated Vaadin sample code](http://vaadinongrails.com/book/1_1_vaadin_sample_app.png)
+![Generated Vaadin files](/assets/cmd-files.png)
 
 #### Step 5
 
