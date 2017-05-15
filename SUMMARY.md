@@ -10,7 +10,7 @@
     * [IntelliJ IDEA](intellij_idea.md)
   * [Plugin Configuration](plugin_configuration.md)
     * [UI class](plugin_configuration/ui-class.md)
-    * URL mapping
+    * [URL mapping](plugin_configuration/url-mapping.md)
     * Production mode
     * Async support
     * Themes
