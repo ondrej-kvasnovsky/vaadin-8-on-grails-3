@@ -1,12 +1,12 @@
 # Basics
 
-When we add dependency to [Vaadin plugin](http://grails.org/plugin/vaadin) into `BuildConfig.groovy` and run `grails compile` the plugin generates the following files inside our Grails application.
+When we add dependency to [Vaadin plugin](http://grails.org/plugin/vaadin) into `BuildConfig.groovy` and run `gradle quick-start` or `gradle quick-start-spring` the plugin generates the following files inside our Grails application.
 
-## MyUI.groovy
+- `MyUI.groovy` - main Vaadin UI file
+- `VaadinConfig.groovy` - is main configuration file for Vaadin application
 
-Sample UI class `src/groovy/app/MyUI.groovy` which contains code that just shows a label in the web browser.
+And removes URL mapping from UrlMapping.groovy.
 
-We can immediatelly start coding Vaadin application using that file, or maybe rather do a refactoring. For example, rename the file to `AppUI.groovy` and move it to different package (folder) `src/groovy/com/company/app`. Then you need to change `mapping` property inside `VaadinConfig.groovy`.
 
 ## VaadinConfig.groovy
 

@@ -9,7 +9,7 @@
     * [Command line](command_line.md)
     * [IntelliJ IDEA](intellij_idea.md)
   * [Plugin Configuration](plugin_configuration.md)
-    * UI class
+    * [UI class](plugin_configuration/ui-class.md)
     * URL mapping
     * Production mode
     * Async support
