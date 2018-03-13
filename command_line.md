@@ -27,13 +27,13 @@ buildscript {
         maven { url 'https://dl.bintray.com/ondrej-kvasnovsky/plugins/' }
     }
     dependencies {
-        classpath 'com.vaadinongrails:vaadin-gradle-plugin:2.0.0'
+        classpath 'com.vaadinongrails:vaadin-gradle-plugin:2.0.2'
         // ... 
     }
 }
 ```
 
-Then apply `com.vaadinongrails.vaadin-gradle-plugin` (in section where other plugins are applied).
+Then apply `com.vaadinongrails.vaadin-gradle-plugin` \(in section where other plugins are applied\).
 
 ```
 apply plugin: 'com.vaadinongrails.vaadin-gradle-plugin'
@@ -48,11 +48,11 @@ repositories {
 }
 ```
 
-Now we can add dependency to `grails-vaadin-plugin`. Do not forget to exclude `vaadin-client-compiler` because then we won't be able to start up the application because of library version collision. 
+Now we can add dependency to `grails-vaadin-plugin`. Do not forget to exclude `vaadin-client-compiler` because then we won't be able to start up the application because of library version collision.
 
 ```groovy
 dependencies {
-    compile ('com.vaadinongrails:grails-vaadin-plugin:2.0.0') {
+    compile ('com.vaadinongrails:grails-vaadin-plugin:2.0.3') {
         exclude group: 'com.vaadin', module: 'vaadin-client-compiler'
     }
 }
@@ -81,10 +81,13 @@ We are ready to start up the application. Run `grails run-app` command. Vaadin a
 
 ![Generated Vaadin sample code](/assets/idea-10.png)
 
-Here is how output in the console should look like. 
+Here is how output in the console should look like.
 
 ```
 > grails run-app
 | Running application...
 Grails application running at http://localhost:8080 in environment: development
 ```
+
+
+

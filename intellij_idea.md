@@ -35,7 +35,7 @@ Copy paste these lines into buildscript section. Check the print screen for plac
 ```
 maven { url 'https://dl.bintray.com/ondrej-kvasnovsky/plugins/' }
 
-classpath 'com.vaadinongrails:vaadin-gradle-plugin:2.0.0'
+classpath 'com.vaadinongrails:vaadin-gradle-plugin:2.0.2'
 
 apply plugin: 'com.vaadinongrails.vaadin-gradle-plugin'
 ```
@@ -45,7 +45,7 @@ Then add these two lines into project dependency section:
 ```
 maven { url 'https://dl.bintray.com/ondrej-kvasnovsky/plugins' }
 
-compile ('com.vaadinongrails:grails-vaadin-plugin:2.0.0') {
+compile ('com.vaadinongrails:grails-vaadin-plugin:2.0.3') {
     exclude group: 'com.vaadin', module: 'vaadin-client-compiler'
 }
 ```
@@ -66,26 +66,27 @@ Now we are able to run our application.
 
 ![Run application](/assets/idea-7.png)
 
-Here is how Grails run configuration looks like, in case we need to create it for our project. 
+Here is how Grails run configuration looks like, in case we need to create it for our project.
 
 ![](/assets/idea-8.png)
 
-When the application is successfully started, we should see this UI in the browser. 
+When the application is successfully started, we should see this UI in the browser.
 
 ![](/assets/idea-10.png)
 
 ### Step 7
 
-In this step, we are going to do change in our Vaadin code and we will observe how changes are reflected in UI without server restart. 
+In this step, we are going to do change in our Vaadin code and we will observe how changes are reflected in UI without server restart.
 
-First we need to enable `auto recompile` in IDEA. Open IDEA settings and check on `Build project automatically` box. 
+First we need to enable `auto recompile` in IDEA. Open IDEA settings and check on `Build project automatically` box.
 
 ![](/assets/idea-6.png)
 
-Then open MyUI.groovy file and add a label into main layout. 
+Then open MyUI.groovy file and add a label into main layout.
 
 ![](/assets/idea-11.png)
 
 Switch to browser and refresh the page. We should see the newly added label on UI.
 
 ![](/assets/idea-12.png)
+
