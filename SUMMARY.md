@@ -11,9 +11,9 @@
   * [Plugin Configuration](plugin_configuration.md)
     * [UI class](plugin_configuration/ui-class.md)
     * [URL mapping](plugin_configuration/url-mapping.md)
-    * Production mode
-    * Async support
-    * Themes
+    * [Production mode](plugin_configuration/production-mode.md)
+    * [Async support](plugin_configuration/async-support.md)
+    * [Themes](plugin_configuration/themes.md)
     * SASS compilation
     * Widgetset compilation
     * Servlet class
